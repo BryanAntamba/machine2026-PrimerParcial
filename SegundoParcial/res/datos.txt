@@ -1,0 +1,5 @@
+Python es un lenguaje de programación muy utilizado.
+Se usa en desarrollo web, ciencia de datos y automatización.
+Aprender Python es una buena decisión para el futuro.
+Este archivo es un ejemplo para practicar lectura de ficheros.
+
